@@ -1,0 +1,1402 @@
+    [
+    {
+        "id": 1,
+        "title": "Kaos Polos Hitam 1",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+1",
+        "category": "fashion"
+    },
+    {
+        "id": 2,
+        "title": "Sepatu Sneakers 2",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+2",
+        "category": "fashion"
+    },
+    {
+        "id": 3,
+        "title": "Smartphone X 3",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+3",
+        "category": "electronics"
+    },
+    {
+        "id": 4,
+        "title": "Laptop Gaming 4",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+4",
+        "category": "electronics"
+    },
+    {
+        "id": 5,
+        "title": "Tas Sekolah 5",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+5",
+        "category": "school"
+    },
+    {
+        "id": 6,
+        "title": "Buku Tulis 6",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+6",
+        "category": "school"
+    },
+    {
+        "id": 7,
+        "title": "Bola Sepak 7",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+7",
+        "category": "sport"
+    },
+    {
+        "id": 8,
+        "title": "Raket Badminton 8",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+8",
+        "category": "sport"
+    },
+    {
+        "id": 9,
+        "title": "Blender Dapur 9",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+9",
+        "category": "home"
+    },
+    {
+        "id": 10,
+        "title": "Rice Cooker 10",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+10",
+        "category": "home"
+    },
+    {
+        "id": 11,
+        "title": "Topi Baseball 11",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+11",
+        "category": "fashion"
+    },
+    {
+        "id": 12,
+        "title": "Jam Tangan 12",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+12",
+        "category": "fashion"
+    },
+    {
+        "id": 13,
+        "title": "Headphone 13",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+13",
+        "category": "electronics"
+    },
+    {
+        "id": 14,
+        "title": "Kalkulator 14",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+14",
+        "category": "school"
+    },
+    {
+        "id": 15,
+        "title": "Meja Belajar 15",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+15",
+        "category": "school"
+    },
+    {
+        "id": 16,
+        "title": "Sepeda Lipat 16",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+16",
+        "category": "sport"
+    },
+    {
+        "id": 17,
+        "title": "Alat Masak Set 17",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+17",
+        "category": "home"
+    },
+    {
+        "id": 18,
+        "title": "Vacuum Cleaner 18",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+18",
+        "category": "home"
+    },
+    {
+        "id": 19,
+        "title": "Mouse Wireless 19",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+19",
+        "category": "electronics"
+    },
+    {
+        "id": 20,
+        "title": "Keyboard Mechanical 20",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+20",
+        "category": "electronics"
+    },
+    {
+        "id": 21,
+        "title": "Kaos Polos Hitam 21",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+21",
+        "category": "fashion"
+    },
+    {
+        "id": 22,
+        "title": "Sepatu Sneakers 22",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+22",
+        "category": "fashion"
+    },
+    {
+        "id": 23,
+        "title": "Smartphone X 23",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+23",
+        "category": "electronics"
+    },
+    {
+        "id": 24,
+        "title": "Laptop Gaming 24",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+24",
+        "category": "electronics"
+    },
+    {
+        "id": 25,
+        "title": "Tas Sekolah 25",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+25",
+        "category": "school"
+    },
+    {
+        "id": 26,
+        "title": "Buku Tulis 26",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+26",
+        "category": "school"
+    },
+    {
+        "id": 27,
+        "title": "Bola Sepak 27",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+27",
+        "category": "sport"
+    },
+    {
+        "id": 28,
+        "title": "Raket Badminton 28",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+28",
+        "category": "sport"
+    },
+    {
+        "id": 29,
+        "title": "Blender Dapur 29",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+29",
+        "category": "home"
+    },
+    {
+        "id": 30,
+        "title": "Rice Cooker 30",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+30",
+        "category": "home"
+    },
+    {
+        "id": 31,
+        "title": "Topi Baseball 31",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+31",
+        "category": "fashion"
+    },
+    {
+        "id": 32,
+        "title": "Jam Tangan 32",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+32",
+        "category": "fashion"
+    },
+    {
+        "id": 33,
+        "title": "Headphone 33",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+33",
+        "category": "electronics"
+    },
+    {
+        "id": 34,
+        "title": "Kalkulator 34",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+34",
+        "category": "school"
+    },
+    {
+        "id": 35,
+        "title": "Meja Belajar 35",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+35",
+        "category": "school"
+    },
+    {
+        "id": 36,
+        "title": "Sepeda Lipat 36",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+36",
+        "category": "sport"
+    },
+    {
+        "id": 37,
+        "title": "Alat Masak Set 37",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+37",
+        "category": "home"
+    },
+    {
+        "id": 38,
+        "title": "Vacuum Cleaner 38",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+38",
+        "category": "home"
+    },
+    {
+        "id": 39,
+        "title": "Mouse Wireless 39",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+39",
+        "category": "electronics"
+    },
+    {
+        "id": 40,
+        "title": "Keyboard Mechanical 40",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+40",
+        "category": "electronics"
+    },
+    {
+        "id": 41,
+        "title": "Kaos Polos Hitam 41",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+41",
+        "category": "fashion"
+    },
+    {
+        "id": 42,
+        "title": "Sepatu Sneakers 42",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+42",
+        "category": "fashion"
+    },
+    {
+        "id": 43,
+        "title": "Smartphone X 43",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+43",
+        "category": "electronics"
+    },
+    {
+        "id": 44,
+        "title": "Laptop Gaming 44",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+44",
+        "category": "electronics"
+    },
+    {
+        "id": 45,
+        "title": "Tas Sekolah 45",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+45",
+        "category": "school"
+    },
+    {
+        "id": 46,
+        "title": "Buku Tulis 46",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+46",
+        "category": "school"
+    },
+    {
+        "id": 47,
+        "title": "Bola Sepak 47",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+47",
+        "category": "sport"
+    },
+    {
+        "id": 48,
+        "title": "Raket Badminton 48",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+48",
+        "category": "sport"
+    },
+    {
+        "id": 49,
+        "title": "Blender Dapur 49",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+49",
+        "category": "home"
+    },
+    {
+        "id": 50,
+        "title": "Rice Cooker 50",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+50",
+        "category": "home"
+    },
+    {
+        "id": 51,
+        "title": "Topi Baseball 51",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+51",
+        "category": "fashion"
+    },
+    {
+        "id": 52,
+        "title": "Jam Tangan 52",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+52",
+        "category": "fashion"
+    },
+    {
+        "id": 53,
+        "title": "Headphone 53",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+53",
+        "category": "electronics"
+    },
+    {
+        "id": 54,
+        "title": "Kalkulator 54",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+54",
+        "category": "school"
+    },
+    {
+        "id": 55,
+        "title": "Meja Belajar 55",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+55",
+        "category": "school"
+    },
+    {
+        "id": 56,
+        "title": "Sepeda Lipat 56",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+56",
+        "category": "sport"
+    },
+    {
+        "id": 57,
+        "title": "Alat Masak Set 57",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+57",
+        "category": "home"
+    },
+    {
+        "id": 58,
+        "title": "Vacuum Cleaner 58",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+58",
+        "category": "home"
+    },
+    {
+        "id": 59,
+        "title": "Mouse Wireless 59",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+59",
+        "category": "electronics"
+    },
+    {
+        "id": 60,
+        "title": "Keyboard Mechanical 60",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+60",
+        "category": "electronics"
+    },
+    {
+        "id": 61,
+        "title": "Kaos Polos Hitam 61",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+61",
+        "category": "fashion"
+    },
+    {
+        "id": 62,
+        "title": "Sepatu Sneakers 62",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+62",
+        "category": "fashion"
+    },
+    {
+        "id": 63,
+        "title": "Smartphone X 63",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+63",
+        "category": "electronics"
+    },
+    {
+        "id": 64,
+        "title": "Laptop Gaming 64",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+64",
+        "category": "electronics"
+    },
+    {
+        "id": 65,
+        "title": "Tas Sekolah 65",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+65",
+        "category": "school"
+    },
+    {
+        "id": 66,
+        "title": "Buku Tulis 66",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+66",
+        "category": "school"
+    },
+    {
+        "id": 67,
+        "title": "Bola Sepak 67",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+67",
+        "category": "sport"
+    },
+    {
+        "id": 68,
+        "title": "Raket Badminton 68",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+68",
+        "category": "sport"
+    },
+    {
+        "id": 69,
+        "title": "Blender Dapur 69",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+69",
+        "category": "home"
+    },
+    {
+        "id": 70,
+        "title": "Rice Cooker 70",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+70",
+        "category": "home"
+    },
+    {
+        "id": 71,
+        "title": "Topi Baseball 71",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+71",
+        "category": "fashion"
+    },
+    {
+        "id": 72,
+        "title": "Jam Tangan 72",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+72",
+        "category": "fashion"
+    },
+    {
+        "id": 73,
+        "title": "Headphone 73",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+73",
+        "category": "electronics"
+    },
+    {
+        "id": 74,
+        "title": "Kalkulator 74",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+74",
+        "category": "school"
+    },
+    {
+        "id": 75,
+        "title": "Meja Belajar 75",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+75",
+        "category": "school"
+    },
+    {
+        "id": 76,
+        "title": "Sepeda Lipat 76",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+76",
+        "category": "sport"
+    },
+    {
+        "id": 77,
+        "title": "Alat Masak Set 77",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+77",
+        "category": "home"
+    },
+    {
+        "id": 78,
+        "title": "Vacuum Cleaner 78",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+78",
+        "category": "home"
+    },
+    {
+        "id": 79,
+        "title": "Mouse Wireless 79",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+79",
+        "category": "electronics"
+    },
+    {
+        "id": 80,
+        "title": "Keyboard Mechanical 80",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+80",
+        "category": "electronics"
+    },
+    {
+        "id": 81,
+        "title": "Kaos Polos Hitam 81",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+81",
+        "category": "fashion"
+    },
+    {
+        "id": 82,
+        "title": "Sepatu Sneakers 82",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+82",
+        "category": "fashion"
+    },
+    {
+        "id": 83,
+        "title": "Smartphone X 83",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+83",
+        "category": "electronics"
+    },
+    {
+        "id": 84,
+        "title": "Laptop Gaming 84",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+84",
+        "category": "electronics"
+    },
+    {
+        "id": 85,
+        "title": "Tas Sekolah 85",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+85",
+        "category": "school"
+    },
+    {
+        "id": 86,
+        "title": "Buku Tulis 86",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+86",
+        "category": "school"
+    },
+    {
+        "id": 87,
+        "title": "Bola Sepak 87",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+87",
+        "category": "sport"
+    },
+    {
+        "id": 88,
+        "title": "Raket Badminton 88",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+88",
+        "category": "sport"
+    },
+    {
+        "id": 89,
+        "title": "Blender Dapur 89",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+89",
+        "category": "home"
+    },
+    {
+        "id": 90,
+        "title": "Rice Cooker 90",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+90",
+        "category": "home"
+    },
+    {
+        "id": 91,
+        "title": "Topi Baseball 91",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+91",
+        "category": "fashion"
+    },
+    {
+        "id": 92,
+        "title": "Jam Tangan 92",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+92",
+        "category": "fashion"
+    },
+    {
+        "id": 93,
+        "title": "Headphone 93",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+93",
+        "category": "electronics"
+    },
+    {
+        "id": 94,
+        "title": "Kalkulator 94",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+94",
+        "category": "school"
+    },
+    {
+        "id": 95,
+        "title": "Meja Belajar 95",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+95",
+        "category": "school"
+    },
+    {
+        "id": 96,
+        "title": "Sepeda Lipat 96",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+96",
+        "category": "sport"
+    },
+    {
+        "id": 97,
+        "title": "Alat Masak Set 97",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+97",
+        "category": "home"
+    },
+    {
+        "id": 98,
+        "title": "Vacuum Cleaner 98",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+98",
+        "category": "home"
+    },
+    {
+        "id": 99,
+        "title": "Mouse Wireless 99",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+99",
+        "category": "electronics"
+    },
+    {
+        "id": 100,
+        "title": "Keyboard Mechanical 100",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+100",
+        "category": "electronics"
+    },
+    {
+        "id": 101,
+        "title": "Kaos Polos Hitam 101",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+101",
+        "category": "fashion"
+    },
+    {
+        "id": 102,
+        "title": "Sepatu Sneakers 102",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+102",
+        "category": "fashion"
+    },
+    {
+        "id": 103,
+        "title": "Smartphone X 103",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+103",
+        "category": "electronics"
+    },
+    {
+        "id": 104,
+        "title": "Laptop Gaming 104",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+104",
+        "category": "electronics"
+    },
+    {
+        "id": 105,
+        "title": "Tas Sekolah 105",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+105",
+        "category": "school"
+    },
+    {
+        "id": 106,
+        "title": "Buku Tulis 106",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+106",
+        "category": "school"
+    },
+    {
+        "id": 107,
+        "title": "Bola Sepak 107",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+107",
+        "category": "sport"
+    },
+    {
+        "id": 108,
+        "title": "Raket Badminton 108",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+108",
+        "category": "sport"
+    },
+    {
+        "id": 109,
+        "title": "Blender Dapur 109",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+109",
+        "category": "home"
+    },
+    {
+        "id": 110,
+        "title": "Rice Cooker 110",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+110",
+        "category": "home"
+    },
+    {
+        "id": 111,
+        "title": "Topi Baseball 111",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+111",
+        "category": "fashion"
+    },
+    {
+        "id": 112,
+        "title": "Jam Tangan 112",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+112",
+        "category": "fashion"
+    },
+    {
+        "id": 113,
+        "title": "Headphone 113",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+113",
+        "category": "electronics"
+    },
+    {
+        "id": 114,
+        "title": "Kalkulator 114",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+114",
+        "category": "school"
+    },
+    {
+        "id": 115,
+        "title": "Meja Belajar 115",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+115",
+        "category": "school"
+    },
+    {
+        "id": 116,
+        "title": "Sepeda Lipat 116",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+116",
+        "category": "sport"
+    },
+    {
+        "id": 117,
+        "title": "Alat Masak Set 117",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+117",
+        "category": "home"
+    },
+    {
+        "id": 118,
+        "title": "Vacuum Cleaner 118",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+118",
+        "category": "home"
+    },
+    {
+        "id": 119,
+        "title": "Mouse Wireless 119",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+119",
+        "category": "electronics"
+    },
+    {
+        "id": 120,
+        "title": "Keyboard Mechanical 120",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+120",
+        "category": "electronics"
+    },
+    {
+        "id": 121,
+        "title": "Kaos Polos Hitam 121",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+121",
+        "category": "fashion"
+    },
+    {
+        "id": 122,
+        "title": "Sepatu Sneakers 122",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+122",
+        "category": "fashion"
+    },
+    {
+        "id": 123,
+        "title": "Smartphone X 123",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+123",
+        "category": "electronics"
+    },
+    {
+        "id": 124,
+        "title": "Laptop Gaming 124",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+124",
+        "category": "electronics"
+    },
+    {
+        "id": 125,
+        "title": "Tas Sekolah 125",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+125",
+        "category": "school"
+    },
+    {
+        "id": 126,
+        "title": "Buku Tulis 126",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+126",
+        "category": "school"
+    },
+    {
+        "id": 127,
+        "title": "Bola Sepak 127",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+127",
+        "category": "sport"
+    },
+    {
+        "id": 128,
+        "title": "Raket Badminton 128",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+128",
+        "category": "sport"
+    },
+    {
+        "id": 129,
+        "title": "Blender Dapur 129",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+129",
+        "category": "home"
+    },
+    {
+        "id": 130,
+        "title": "Rice Cooker 130",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+130",
+        "category": "home"
+    },
+    {
+        "id": 131,
+        "title": "Topi Baseball 131",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+131",
+        "category": "fashion"
+    },
+    {
+        "id": 132,
+        "title": "Jam Tangan 132",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+132",
+        "category": "fashion"
+    },
+    {
+        "id": 133,
+        "title": "Headphone 133",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+133",
+        "category": "electronics"
+    },
+    {
+        "id": 134,
+        "title": "Kalkulator 134",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+134",
+        "category": "school"
+    },
+    {
+        "id": 135,
+        "title": "Meja Belajar 135",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+135",
+        "category": "school"
+    },
+    {
+        "id": 136,
+        "title": "Sepeda Lipat 136",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+136",
+        "category": "sport"
+    },
+    {
+        "id": 137,
+        "title": "Alat Masak Set 137",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+137",
+        "category": "home"
+    },
+    {
+        "id": 138,
+        "title": "Vacuum Cleaner 138",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+138",
+        "category": "home"
+    },
+    {
+        "id": 139,
+        "title": "Mouse Wireless 139",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+139",
+        "category": "electronics"
+    },
+    {
+        "id": 140,
+        "title": "Keyboard Mechanical 140",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+140",
+        "category": "electronics"
+    },
+    {
+        "id": 141,
+        "title": "Kaos Polos Hitam 141",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+141",
+        "category": "fashion"
+    },
+    {
+        "id": 142,
+        "title": "Sepatu Sneakers 142",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+142",
+        "category": "fashion"
+    },
+    {
+        "id": 143,
+        "title": "Smartphone X 143",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+143",
+        "category": "electronics"
+    },
+    {
+        "id": 144,
+        "title": "Laptop Gaming 144",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+144",
+        "category": "electronics"
+    },
+    {
+        "id": 145,
+        "title": "Tas Sekolah 145",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+145",
+        "category": "school"
+    },
+    {
+        "id": 146,
+        "title": "Buku Tulis 146",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+146",
+        "category": "school"
+    },
+    {
+        "id": 147,
+        "title": "Bola Sepak 147",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+147",
+        "category": "sport"
+    },
+    {
+        "id": 148,
+        "title": "Raket Badminton 148",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+148",
+        "category": "sport"
+    },
+    {
+        "id": 149,
+        "title": "Blender Dapur 149",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+149",
+        "category": "home"
+    },
+    {
+        "id": 150,
+        "title": "Rice Cooker 150",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+150",
+        "category": "home"
+    },
+    {
+        "id": 151,
+        "title": "Topi Baseball 151",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+151",
+        "category": "fashion"
+    },
+    {
+        "id": 152,
+        "title": "Jam Tangan 152",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+152",
+        "category": "fashion"
+    },
+    {
+        "id": 153,
+        "title": "Headphone 153",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+153",
+        "category": "electronics"
+    },
+    {
+        "id": 154,
+        "title": "Kalkulator 154",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+154",
+        "category": "school"
+    },
+    {
+        "id": 155,
+        "title": "Meja Belajar 155",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+155",
+        "category": "school"
+    },
+    {
+        "id": 156,
+        "title": "Sepeda Lipat 156",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+156",
+        "category": "sport"
+    },
+    {
+        "id": 157,
+        "title": "Alat Masak Set 157",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+157",
+        "category": "home"
+    },
+    {
+        "id": 158,
+        "title": "Vacuum Cleaner 158",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+158",
+        "category": "home"
+    },
+    {
+        "id": 159,
+        "title": "Mouse Wireless 159",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+159",
+        "category": "electronics"
+    },
+    {
+        "id": 160,
+        "title": "Keyboard Mechanical 160",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+160",
+        "category": "electronics"
+    },
+    {
+        "id": 161,
+        "title": "Kaos Polos Hitam 161",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+161",
+        "category": "fashion"
+    },
+    {
+        "id": 162,
+        "title": "Sepatu Sneakers 162",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+162",
+        "category": "fashion"
+    },
+    {
+        "id": 163,
+        "title": "Smartphone X 163",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+163",
+        "category": "electronics"
+    },
+    {
+        "id": 164,
+        "title": "Laptop Gaming 164",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+164",
+        "category": "electronics"
+    },
+    {
+        "id": 165,
+        "title": "Tas Sekolah 165",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+165",
+        "category": "school"
+    },
+    {
+        "id": 166,
+        "title": "Buku Tulis 166",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+166",
+        "category": "school"
+    },
+    {
+        "id": 167,
+        "title": "Bola Sepak 167",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+167",
+        "category": "sport"
+    },
+    {
+        "id": 168,
+        "title": "Raket Badminton 168",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+168",
+        "category": "sport"
+    },
+    {
+        "id": 169,
+        "title": "Blender Dapur 169",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+169",
+        "category": "home"
+    },
+    {
+        "id": 170,
+        "title": "Rice Cooker 170",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+170",
+        "category": "home"
+    },
+    {
+        "id": 171,
+        "title": "Topi Baseball 171",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+171",
+        "category": "fashion"
+    },
+    {
+        "id": 172,
+        "title": "Jam Tangan 172",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+172",
+        "category": "fashion"
+    },
+    {
+        "id": 173,
+        "title": "Headphone 173",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+173",
+        "category": "electronics"
+    },
+    {
+        "id": 174,
+        "title": "Kalkulator 174",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+174",
+        "category": "school"
+    },
+    {
+        "id": 175,
+        "title": "Meja Belajar 175",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+175",
+        "category": "school"
+    },
+    {
+        "id": 176,
+        "title": "Sepeda Lipat 176",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+176",
+        "category": "sport"
+    },
+    {
+        "id": 177,
+        "title": "Alat Masak Set 177",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+177",
+        "category": "home"
+    },
+    {
+        "id": 178,
+        "title": "Vacuum Cleaner 178",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+178",
+        "category": "home"
+    },
+    {
+        "id": 179,
+        "title": "Mouse Wireless 179",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+179",
+        "category": "electronics"
+    },
+    {
+        "id": 180,
+        "title": "Keyboard Mechanical 180",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+180",
+        "category": "electronics"
+    },
+    {
+        "id": 181,
+        "title": "Kaos Polos Hitam 181",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kaos+Polos+Hitam+181",
+        "category": "fashion"
+    },
+    {
+        "id": 182,
+        "title": "Sepatu Sneakers 182",
+        "price": 250000,
+        "image": "https://via.placeholder.com/200x200?text=Sepatu+Sneakers+182",
+        "category": "fashion"
+    },
+    {
+        "id": 183,
+        "title": "Smartphone X 183",
+        "price": 3200000,
+        "image": "https://via.placeholder.com/200x200?text=Smartphone+X+183",
+        "category": "electronics"
+    },
+    {
+        "id": 184,
+        "title": "Laptop Gaming 184",
+        "price": 9500000,
+        "image": "https://via.placeholder.com/200x200?text=Laptop+Gaming+184",
+        "category": "electronics"
+    },
+    {
+        "id": 185,
+        "title": "Tas Sekolah 185",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Tas+Sekolah+185",
+        "category": "school"
+    },
+    {
+        "id": 186,
+        "title": "Buku Tulis 186",
+        "price": 8000,
+        "image": "https://via.placeholder.com/200x200?text=Buku+Tulis+186",
+        "category": "school"
+    },
+    {
+        "id": 187,
+        "title": "Bola Sepak 187",
+        "price": 150000,
+        "image": "https://via.placeholder.com/200x200?text=Bola+Sepak+187",
+        "category": "sport"
+    },
+    {
+        "id": 188,
+        "title": "Raket Badminton 188",
+        "price": 180000,
+        "image": "https://via.placeholder.com/200x200?text=Raket+Badminton+188",
+        "category": "sport"
+    },
+    {
+        "id": 189,
+        "title": "Blender Dapur 189",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Blender+Dapur+189",
+        "category": "home"
+    },
+    {
+        "id": 190,
+        "title": "Rice Cooker 190",
+        "price": 450000,
+        "image": "https://via.placeholder.com/200x200?text=Rice+Cooker+190",
+        "category": "home"
+    },
+    {
+        "id": 191,
+        "title": "Topi Baseball 191",
+        "price": 60000,
+        "image": "https://via.placeholder.com/200x200?text=Topi+Baseball+191",
+        "category": "fashion"
+    },
+    {
+        "id": 192,
+        "title": "Jam Tangan 192",
+        "price": 200000,
+        "image": "https://via.placeholder.com/200x200?text=Jam+Tangan+192",
+        "category": "fashion"
+    },
+    {
+        "id": 193,
+        "title": "Headphone 193",
+        "price": 300000,
+        "image": "https://via.placeholder.com/200x200?text=Headphone+193",
+        "category": "electronics"
+    },
+    {
+        "id": 194,
+        "title": "Kalkulator 194",
+        "price": 50000,
+        "image": "https://via.placeholder.com/200x200?text=Kalkulator+194",
+        "category": "school"
+    },
+    {
+        "id": 195,
+        "title": "Meja Belajar 195",
+        "price": 700000,
+        "image": "https://via.placeholder.com/200x200?text=Meja+Belajar+195",
+        "category": "school"
+    },
+    {
+        "id": 196,
+        "title": "Sepeda Lipat 196",
+        "price": 2500000,
+        "image": "https://via.placeholder.com/200x200?text=Sepeda+Lipat+196",
+        "category": "sport"
+    },
+    {
+        "id": 197,
+        "title": "Alat Masak Set 197",
+        "price": 350000,
+        "image": "https://via.placeholder.com/200x200?text=Alat+Masak+Set+197",
+        "category": "home"
+    },
+    {
+        "id": 198,
+        "title": "Vacuum Cleaner 198",
+        "price": 1500000,
+        "image": "https://via.placeholder.com/200x200?text=Vacuum+Cleaner+198",
+        "category": "home"
+    },
+    {
+        "id": 199,
+        "title": "Mouse Wireless 199",
+        "price": 120000,
+        "image": "https://via.placeholder.com/200x200?text=Mouse+Wireless+199",
+        "category": "electronics"
+    },
+    {
+        "id": 200,
+        "title": "Keyboard Mechanical 200",
+        "price": 600000,
+        "image": "https://via.placeholder.com/200x200?text=Keyboard+Mechanical+200",
+        "category": "electronics"
+    }
+    ]
